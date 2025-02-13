@@ -11,6 +11,9 @@ My name is Golib and I'm a Data Scientist, from Uzbekistan living in Germany
 - 🎲 Fun fact: Life is a grand adventure; embrace every chance to discover something new
 -->
 
-git add README.md
-git commit -m "Update profile README"
-git push origin main
+
+
+- ✨ I'm currently working on a project in analysing hotels in Germany
+- 📚 I'm currently learning to apply my data skills in real-data projects 
+- 🎯 Goals: I want to further develop and share my data skills thorough my projects 
+- 🎲 Fun fact: Life is a grand adventure; embrace every chance to discover something new
