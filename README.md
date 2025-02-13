@@ -10,3 +10,7 @@ My name is Golib and I'm a Data Scientist, from Uzbekistan living in Germany
 - 🎯 Goals: I want to further develop and share my data skills thorough my projects 
 - 🎲 Fun fact: Life is a grand adventure; embrace every chance to discover something new
 -->
+
+git add README.md
+git commit -m "Update profile README"
+git push origin main
