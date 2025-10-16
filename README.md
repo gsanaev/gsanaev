@@ -1,12 +1,11 @@
-## Hi there 👋
+## 👋 Hi there!
 
-<!--
-**gsanaev/gsanaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I'm **Golib Sanaev**, a **Data Scientist** originally from **Uzbekistan**, now based in **Germany**.  
+I’m passionate about using data to uncover meaningful insights and building reproducible, real-world analytics projects.
 
-My name is Golib and I'm a Data Scientist, from Uzbekistan living in Germany
+- 💼 Currently working on **data analysis and forecasting projects** focused on social and economic trends  
+- 📚 Expanding my expertise by applying **machine learning and statistical modeling** to real-world datasets  
+- 🎯 Goal: To continuously improve, learn, and share data science practices through open, transparent projects  
+- 🎲 Fun fact: I see life as a continuous experiment — every challenge is an opportunity to learn something new!
 
-- ✨ I'm currently working on a project in analysing hotels in Germany
-- 📚 I'm currently learning to apply my data skills in real-data projects 
-- 🎯 Goals: I want to further develop and share my data skills thorough my projects 
-- 🎲 Fun fact: Life is a grand adventure; embrace every chance to discover something new
+---
