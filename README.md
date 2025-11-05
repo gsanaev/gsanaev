@@ -23,6 +23,12 @@ Exploratory analysis and modeling of hotel prices & demand patterns; feature eng
 **Stack:** Python, pandas, scikit-learn, matplotlib  
 🔗 Repo (example): https://github.com/gsanaev/Hotel-Booking-Data-Analysis-Project
 
+### 🌿 Classifying Corporate ESG Performance Using Machine Learning
+Machine learning framework to classify corporate ESG performance using simulated but realistic data.
+Includes modeling (Logistic Regression, Random Forest, XGBoost) and explainability via SHAP & interactive dashboards.
+**Stack:** Python, pandas, scikit-learn, XGBoost, SHAP, Plotly
+🔗 Repo: https://github.com/gsanaev/esg-classification
+
 ---
 
 ## 🎓 Certifications
