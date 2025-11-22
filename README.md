@@ -1,50 +1,77 @@
-# 👋 Hi, I'm Golib Sanaev
-**Data Scientist · Machine Learning · Python · Power BI · SQL · AI**  
-📍 Mörfelden-Walldorf, Hessen, Germany · ✉️ gsanaev80@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/golib-sanaev/)
+# 👋 Hi, I'm Golib Sanaev  
+### Applied Data Scientist & Analyst | Python • SQL • ML • Analytics • Econometrics
+
+Welcome to my GitHub!  
+I am an **Applied Data Scientist and Analyst** with a strong foundation in **statistical modeling, data analysis, forecasting, and reproducible analytical workflows**.  
+I combine **PhD-level research experience** with **practical Python & SQL skills** to build clear, interpretable, and well-structured data solutions that support decision-making.
+
+I work extensively with **Python (pandas, scikit-learn, OOP)**, **SQL**, **Power BI**, and modern analytical tools.  
+My interests lie at the intersection of **Data Science**, **Applied Machine Learning**, and **Business Analytics**.
 
 ---
 
-## 🧠 About
-I build end-to-end, reproducible data science projects — from data ingestion and cleaning to modeling, evaluation, and clear communication for decision-makers.  
-Currently focused on **forecasting**, **explainable ML**, and **AI for the public sector**.
+## 🔧 Tools & Technologies
+
+**Languages & Analytics:**  
+Python • SQL • Econometrics • Time Series • Forecasting • Regression & Classification
+
+**Python Stack:**  
+pandas • numpy • scikit-learn • matplotlib • OOP • ETL Pipelines • APIs
+
+**Data Ops & Workflow:**  
+Git • GitHub • Reproducible Analysis • Data Cleaning • Data Preparation
+
+**BI & Visualization:**  
+Power BI • Tableau
+
+**Statistical Tools:**  
+Stata • GLM • Model Evaluation • Feature Engineering • EDA
 
 ---
 
-## 🚀 Featured Projects
+## 📁 Selected Projects
 
-### 🌍 Forecasting Migration Flows with ML
-Reproducible pipeline to model and forecast international migration using World Bank & UNDP indicators (1990–2023, extended to 2030).  
-**Stack:** Python, pandas, scikit-learn, SHAP, notebooks, CI-friendly structure  
-🔗 Repo: https://github.com/gsanaev/forecasting-migration-flows-ml  
-🔎 Docs/outputs: see repo README
-
-### 🏨 Hotel Booking / Demand Analysis (Germany & EU)
-Exploratory analysis and modeling of hotel prices & demand patterns; feature engineering and visual insights.  
-**Stack:** Python, pandas, scikit-learn, matplotlib  
-🔗 Repo (example): https://github.com/gsanaev/Hotel-Booking-Data-Analysis-Project
-
-### 🌿 Classifying Corporate ESG Performance Using Machine Learning
-Machine learning framework to classify corporate ESG performance using simulated but realistic data.
-Includes modeling (Logistic Regression, Random Forest, XGBoost) and explainability via SHAP & interactive dashboards.
-**Stack:** Python, pandas, scikit-learn, XGBoost, SHAP, Plotly
-🔗 Repo: https://github.com/gsanaev/esg-classification
+### 🔹 [ESG Classification Using Machine Learning](https://github.com/gsanaev/esg_classification)
+Supervised learning project building a transparent ML workflow to classify ESG indicators using feature engineering, model evaluation, and reproducible pipelines.  
+**Tech:** Python, pandas, scikit-learn, feature engineering, classification models
 
 ---
 
-## 🎓 Certifications
-- Data Scientist — **StackFuel GmbH** (450 UE, ML, Big Data, Python)
-- **Google Advanced Data Analytics** (7-course program: Statistics, ML, Predictive Modeling)
-- **Microsoft Power BI Data Analyst Associate** (valid to 2026)
-- **MySQL for Data Analytics** (SQL queries, joins, aggregations)
+### 🔹 [ESG Data Extraction Pipeline (APIs & Python OOP)](https://github.com/gsanaev/esg_extraction_pipeline)
+Modular, object-oriented pipeline for extracting ESG-related data using APIs, structured processing steps, and reusable components.  
+**Tech:** Python, OOP, APIs, ETL, data cleaning
 
 ---
 
-## 🧰 Tech
-`Python` · `pandas` · `NumPy` · `scikit-learn` · `TensorFlow/Keras` · `PySpark` ·  
-`SQL` · `Power BI` · `Git` · `Linux` · `Docker (basics)`
+### 🔹 [Insurance Risk Modeling (GLM & Negative Binomial)](https://github.com/gsanaev/insurance_risk_modeling)
+End-to-end actuarial risk modeling using GLMs to predict frequency, severity, and pure premium.  
+**Tech:** Python, GLM, Negative Binomial, model diagnostics, visualization
 
 ---
 
-## 📫 Contact
-- Email: **gsanaev80@gmail.com**  
-- LinkedIn: **linkedin.com/in/golib-sanaev**
+### 🔹 [EU Hotel Demand Forecasting (Time Series)](https://github.com/gsanaev/hotel_demand_forecasting)
+Time series forecasting using SARIMA and feature engineering to evaluate tourism dynamics in European hotel markets.  
+**Tech:** Python, SARIMA, time series modeling, feature engineering
+
+---
+
+## 📌 Current Work  
+I am currently developing a **Retail Data Intelligence** project, combining:
+
+- Python OOP pipelines  
+- DuckDB SQL modeling  
+- API-based data extraction  
+- Forecasting & clustering  
+- Power BI dashboarding  
+- Business-driven retail KPIs  
+
+Repository will be published soon.
+
+---
+
+## 📫 Contact  
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/golib-sanaev  
+📧 **Email:** gsanaev80@gmail.com  
+
+Feel free to reach out — I am open to opportunities in **Data Science**, **Applied ML**, **Data Analytics**, and **Business Analytics** roles.
