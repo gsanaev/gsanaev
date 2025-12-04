@@ -31,25 +31,31 @@ Stata • GLM • Model Evaluation • Feature Engineering • EDA
 
 ## 📁 Selected Projects
 
-### 🔹 [ESG Classification Using Machine Learning](https://github.com/gsanaev/esg_classification)
+### 🔹 [Enterprise Financial KPI & Churn Analytics Platform](https://github.com/gsanaev/enterprise-financial-kpi-platform)
+A modern finance analytics solution integrating data engineering, profitability modeling, and customer churn prediction — designed for banking and financial institutions.  
+**Tech:** Python, SQL, data engineering, PowerBI
+
+---
+
+### 🔹 [ESG Classification Using Machine Learning](https://github.com/gsanaev/esg-classification)
 Supervised learning project building a transparent ML workflow to classify ESG indicators using feature engineering, model evaluation, and reproducible pipelines.  
 **Tech:** Python, pandas, scikit-learn, feature engineering, classification models
 
 ---
 
-### 🔹 [ESG Data Extraction Pipeline (APIs & Python OOP)](https://github.com/gsanaev/esg_extraction_pipeline)
+### 🔹 [ESG Data Extraction Pipeline (APIs & Python OOP)](https://github.com/gsanaev/esg-llm-platform)
 Modular, object-oriented pipeline for extracting ESG-related data using APIs, structured processing steps, and reusable components.  
 **Tech:** Python, OOP, APIs, ETL, data cleaning
 
 ---
 
-### 🔹 [Insurance Risk Modeling (GLM & Negative Binomial)](https://github.com/gsanaev/insurance_risk_modeling)
+### 🔹 [Insurance Risk Modeling (GLM & Negative Binomial)](https://github.com/gsanaev/insurance-risk-modeling)
 End-to-end actuarial risk modeling using GLMs to predict frequency, severity, and pure premium.  
 **Tech:** Python, GLM, Negative Binomial, model diagnostics, visualization
 
 ---
 
-### 🔹 [EU Hotel Demand Forecasting (Time Series)](https://github.com/gsanaev/hotel_demand_forecasting)
+### 🔹 [EU Hotel Demand Forecasting (Time Series)](https://github.com/gsanaev/forecasting-explaining-hotel-demand-in-eu)
 Time series forecasting using SARIMA and feature engineering to evaluate tourism dynamics in European hotel markets.  
 **Tech:** Python, SARIMA, time series modeling, feature engineering
 
