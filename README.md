@@ -13,10 +13,13 @@ My interests lie at the intersection of **Data Science**, **Applied Machine Lear
 ## 🔧 Tools & Technologies
 
 **Languages & Analytics:**  
-Python • SQL • Econometrics • Time Series • Forecasting • Regression & Classification
+Python • R • SQL • Econometrics • Time Series • Forecasting • Regression & Classification
 
 **Python Stack:**  
 pandas • numpy • scikit-learn • matplotlib • OOP • ETL Pipelines • APIs
+
+**R Stack:**  
+dplyr • tidyr • purrr • ggplot2 • lubridate • renv • panel data workflows • economic indicator construction
 
 **Data Ops & Workflow:**  
 Git • GitHub • Reproducible Analysis • Data Cleaning • Data Preparation
@@ -30,6 +33,12 @@ Stata • GLM • Model Evaluation • Feature Engineering • EDA
 ---
 
 ## 📁 Selected Projects
+
+### 🔹 [Business Data Integration & Economic Indicators Pipeline in R](https://github.com/gsanaev/business-data-integration)
+A reproducible R-based workflow for integrating multi-source firm-level datasets, performing harmonization and validation, and generating sectoral & regional economic indicators.  
+**Tech:** R, dplyr, ggplot2, data cleaning, statistical integration, renv
+
+---
 
 ### 🔹 [Enterprise Financial KPI & Churn Analytics Platform](https://github.com/gsanaev/enterprise-financial-kpi-platform)
 A modern finance analytics solution integrating data engineering, profitability modeling, and customer churn prediction — designed for banking and financial institutions.  
